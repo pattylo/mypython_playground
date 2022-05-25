@@ -17,3 +17,4 @@ if __name__ == '__main__':  # test
         model.run_model(frame)
         cv.imshow('test', frame)
         cv.waitKey(30)
+print('1')
